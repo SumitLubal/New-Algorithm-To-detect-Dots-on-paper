@@ -19,7 +19,8 @@ public class TestAlgo extends JFrame {
 	public static void main(String a[]) {
 		new TestAlgo("detector");
 		new TestAlgo("plain");
-	}
+	}//this was done for commit
+	
 
 	public TestAlgo(String string) {
 		try {
